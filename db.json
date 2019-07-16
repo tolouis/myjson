@@ -1,1 +1,13 @@
-
+{
+  auth:{
+    clientId: 'aaaaaaaa',
+    clientSecret: 'bbbbbbbbbb'
+  },
+  trading:{
+    minAmount: 3000,
+    maxAmount: 5000,
+    sellPortion: 50,
+    buyPortion: 50
+  }
+  
+}
